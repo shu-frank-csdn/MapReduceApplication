@@ -1,3 +1,4 @@
+本程序参考视频教程：http://edu.51cto.com/index.php?do=lesson&id=77672
 # MapReduceApplication 程序解释
 本程序实现了一个简单的Akka demo程序，各文件解释如下：  
 MapReduceApplication：是程序启动入口，创建了ActorSystem，并且向MaterActor发送消息，并最终返回结果。  
